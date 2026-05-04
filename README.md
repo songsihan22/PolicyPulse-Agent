@@ -3,7 +3,7 @@
 A multi-agent simulator for public opinion dynamics in governance scenarios.
 
 <p align="center">
-  <img src="./assets/policypulse_simulation_overview_infographic.png" alt="PolicyPulse Overview" width="100%">
+  <img src="./assets/policypulse_simulation_overview_infographic.png.png" alt="PolicyPulse Overview" width="100%">
 </p>
 
 <p align="center">
