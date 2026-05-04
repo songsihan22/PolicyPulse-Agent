@@ -2,6 +2,14 @@
 
 A multi-agent simulator for public opinion dynamics in governance scenarios.
 
+<p align="center">
+  <img src="./assets/policypulse_simulation_overview_infographic.png" alt="PolicyPulse Overview" width="100%">
+</p>
+
+<p align="center">
+  <em>Multi-agent public policy simulation workflow: scenarios, heterogeneous agents, attitude dynamics, and governance insights.</em>
+</p>
+
 ## Overview
 PolicyPulse-Agent 是一个面向公共政策与 AI 治理场景的轻量级多智能体模拟项目。它通过可解释的规则模型，展示不同类型公众在政策议题、信息干预和社会互动共同作用下的态度演化过程。当前版本提供可运行的 Streamlit 页面、基础测试、统一指标模块和自动生成的分析文本。
 
